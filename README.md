@@ -63,7 +63,7 @@ As mentioned above, there are many ways to host your assessment for free. Our re
 
 ## Submitting your assessment
 
-When you are done with the assessment, send the link of the repository to [Uche]<uche@joinpeddle.com>
+When you are done with the assessment, send the link of the repository [Here](https://docs.google.com/forms/d/e/1FAIpQLSfqYOT4SPsVr_fkkj5Yv1PTEOyj6C5_gcM54TSSwGibWZtjmw/viewform)
 
 Remember, if you're looking for feedback on your task, be sure to ask questions when submitting it.
 
