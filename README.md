@@ -4,14 +4,14 @@
 
 ## Welcome! 👋
 
-Thanks for taking this front-end coding challenge.
+Thanks for taking this front-end assessment task.
 
 
-## The challenge
+## The task
 
-Your challenge is to build out this multi-step form and get it looking as close to the design as possible.
+Your task is to build out this multi-step form and get it looking as close to the design as possible.
 
-You can will be using React/Next and [Chakra UI](https://chakra-ui.com) as the component library to complete the challenge.
+You can will be using React/Next and [Chakra UI](https://chakra-ui.com) as the component library to complete this task.
 
 Your users should be able to:
 
@@ -25,7 +25,7 @@ Your users should be able to:
   - The email address is not formatted correctly
   - A step is submitted, but no selection has been made
 
-Want some support on the challenge? [Uche](uche@joinpeddle.com) and ask questions
+Want some support on this task? send an email to [Uche]<uche@joinpeddle.com> and ask questions
 
 ## Where to find everything
 
@@ -63,7 +63,7 @@ As mentioned above, there are many ways to host your assessment for free. Our re
 
 ## Submitting your assessment
 
-When you are done with the assessment, send the link of the repository to ["Here"](https://)
+When you are done with the assessment, send the link of the repository to [Uche]<uche@joinpeddle.com>
 
 Remember, if you're looking for feedback on your task, be sure to ask questions when submitting it.
 
