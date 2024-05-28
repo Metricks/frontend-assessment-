@@ -11,7 +11,7 @@ Thanks for taking this front-end assessment task.
 
 Your task is to build out this multi-step form and get it looking as close to the design as possible.
 
-You can will be using React/Next and [Chakra UI](https://chakra-ui.com) as the component library to complete this task.
+You can will be using React/Next and [Tailwind CSS](https://tailwindcss.com) as the component library to complete this task.
 
 Your users should be able to:
 
@@ -60,10 +60,6 @@ As mentioned above, there are many ways to host your assessment for free. Our re
   * The libraries and dependecies you used in implementing the application.
   * Step by step guide on how to run the application.
   * What you would like to improve in this application if it was not an assessment.(optional).
-
-## Submitting your assessment
-
-When you are done with the assessment, send the link of the repository [Here](https://docs.google.com/forms/d/e/1FAIpQLSfqYOT4SPsVr_fkkj5Yv1PTEOyj6C5_gcM54TSSwGibWZtjmw/viewform)
 
 Remember, if you're looking for feedback on your task, be sure to ask questions when submitting it.
 
